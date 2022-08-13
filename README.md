@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 
 - 🌱 I’m currently learning: React Native
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalMandloi&layout=compact)](https://github.com/VatsalMandloi/github-readme-stats)
--->
 
+<!--
 <h1 align="center">Hi 👋, I'm Vatsal Mandloi</h1>
 <h3 align="center">Curious🏔️</h3>
 
@@ -50,3 +50,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalmandloi&show_icons=true&locale=en" alt="vatsalmandloi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalmandloi&" alt="vatsalmandloi" /></p>
+-->
