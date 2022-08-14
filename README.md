@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: vatsalmandloi247@gmail.com
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalmandloi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vatsalmandloi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalmandloi&show_icons=true&theme=dracula&locale=en" alt="vatsalmandloi" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VatsalMandloi&theme=calm&date_format=M%20j%5B%2C%20Y%5D&background=101820&border=FF8157&stroke=FF8157&ring=FF8157&fire=F54768&currStreakNum=FF5757&sideNums=FF5757&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=767676)](https://git.io/streak-stats)
 
