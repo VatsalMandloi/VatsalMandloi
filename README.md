@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VatsalMandloi&theme=calm&date_format=M%20j%5B%2C%20Y%5D&background=101820&border=FF8157&stroke=FF8157&ring=FF8157&fire=F54768&currStreakNum=FF5757&sideNums=FF5757&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=767676)](https://git.io/streak-stats)
 -->
-<img align="center" src="icon banner.png" alt="Google Play Store"  />
 
 <h1 align="left">Hi 👋, I'm Vatsal Mandloi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalmandloi&label=Profile%20views&color=0e75b6&icon=2&style=flat" alt="vatsalmandloi" /> </p>
