@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **VatsalMandloi/VatsalMandloi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -48,4 +49,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalmandloi&show_icons=true&theme=dracula&title_color=ff8157&text_color=d6d6d6&bg_color=101820&locale=en" alt="vatsalmandloi" /></p>
 
-<p><img align="center" src="(http://github-readme-streak-stats.herokuapp.com?user=VatsalMandloi&theme=calm&date_format=M%20j%5B%2C%20Y%5D&background=101820&border=FF8157&stroke=FF8157&ring=FF8157&fire=F54768&currStreakNum=FF5757&sideNums=FF5757&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=767676)](https://git.io/streak-stats)" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VatsalMandloi&theme=calm&date_format=M%20j%5B%2C%20Y%5D&background=101820&border=FF8157&stroke=FF8157&ring=FF8157&fire=F54768&currStreakNum=FF5757&sideNums=FF5757&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=767676" /></p>
