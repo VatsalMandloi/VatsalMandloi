@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Vatsal Mandloi</h1>
+<h1 align="left">Hi 👋, I'm Vatsal Mandloi</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalmandloi&label=Profile%20views&color=0e75b6&icon=2&style=flat" alt="vatsalmandloi" /> </p>
 
 - 🔭 I’m currently working on [Money Tracker](https://github.com/VatsalMandloi/money-tracker)
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Checkout apps on Google Play store:</h3>
 <p align="left">
-<a href="https://play.google.com/store/apps/developer?id=Vatsal+Mandloi&hl=en_US&gl=US" target="blank"><img align="center" src="google-play-badge.png" alt="Google Play Store"  /></a>
+<a href="https://play.google.com/store/apps/developer?id=Vatsal+Mandloi&hl=en_US&gl=US" target="blank"><img align="center" src="google-play-badge.png" alt="Google Play Store"  height=50 width=100/></a>
 </p>
 
 
