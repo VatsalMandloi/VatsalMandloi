@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Checkout apps on Google Play store:</h3>
 <p align="left">
-<a href="https://play.google.com/store/apps/developer?id=Vatsal+Mandloi&hl=en_US&gl=US" target="blank"><img align="center" src="google-play-badge.png" alt="Google Play Store"  height=50 width=100/></a>
+<a href="https://play.google.com/store/apps/developer?id=Vatsal+Mandloi&hl=en_US&gl=US" target="blank"><img align="center" src="google-play-badge.png" alt="Google Play Store"  height=125 width=323/></a>
 </p>
 
 
