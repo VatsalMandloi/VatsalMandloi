@@ -37,11 +37,16 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vatsalmandloi247@gmail.com**
 
+<h3 align="left">Checkout apps on Google Play store:</h3>
+<p align="left">
+<a href="https://play.google.com/store/apps/developer?id=Vatsal+Mandloi&hl=en_US&gl=US" target="blank"><img align="center" src="google-play-badge.png" alt="Google Play Store" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vatsalmandloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vatsalmandloi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vatsal-mandloi-3919a9172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsal-mandloi-3919a9172/" height="30" width="40" /></a>
-<a href="https://instagram.com/vatsalmandloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vatsalmandloi" height="30" width="40" /></a>
+<a href="https://twitter.com/vatsalmandloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vatsal-mandloi-3919a9172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/vatsalmandloi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
