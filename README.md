@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalmandloi&show_icons=true&include_all_commits=true&count_private=true&theme=maroongold&title_color=ff5757&text_color=d6d6d6&bg_color=101820&border_color=FF8157&locale=en" alt="vatsalmandloi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalmandloi&show_icons=true&include_all_commits=true&count_private=false&theme=maroongold&title_color=ff5757&text_color=d6d6d6&bg_color=101820&border_color=FF8157&locale=en" alt="vatsalmandloi" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VatsalMandloi&theme=calm&date_format=M%20j%5B%2C%20Y%5D&background=101820&border=FF8157&stroke=FF8157&ring=FF8157&fire=F54768&currStreakNum=FF5757&sideNums=FF5757&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=767676" /></p>
