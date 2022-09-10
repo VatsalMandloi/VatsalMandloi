@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Money Tracker](https://github.com/VatsalMandloi/money-tracker)
 
-- 🌱 I’m currently learning **React Native, UI/UX**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://vatsalmandloi.netlify.app/)
 
